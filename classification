@@ -67,7 +67,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "77cf6762",
+   "id": "77cf6762", 
    "metadata": {},
    "source": [
     "**Question 1** Read the dataset `adults.csv` into the variable `adultsData`. `fnlwgt` is the index column."
